@@ -5,3 +5,12 @@
 - Implemented append(), prepend(), insert(), removeFirst(), removeLast() and reverse() methods and calculated their time complexities.
 - Examined how its internal structure and working is different from ArrayList.
 - Solve two problems on #leetcode (217. Contains Duplicate, 26. Remove Duplicates from Sorted Array)
+
+# Day 02
+### Date: 29/09/2023
+### Progress:
+- Solve following problems on leetcode
+  - 125. Valid Palindrome
+  - 771. Jewels and Stones
+  - 1108. Defanging an IP Address
+  - 2011. Final Value of Variable After Performing Operations
