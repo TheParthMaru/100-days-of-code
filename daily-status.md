@@ -10,7 +10,7 @@
 ### Date: 29/09/2023
 ### Progress:
 - Solve following problems on leetcode
-  - 125. Valid Palindrome
-  - 771. Jewels and Stones
-  - 1108. Defanging an IP Address
-  - 2011. Final Value of Variable After Performing Operations
+  - Valid Palindrome
+  - Jewels and Stones
+  - Defanging an IP Address
+  - Final Value of Variable After Performing Operations
